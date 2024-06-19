@@ -1,8 +1,4 @@
-https://github.com/Timurilasov/Calculator.git
-
-
 import java.util.Scanner;
-
 public class Calculator {
 
 
