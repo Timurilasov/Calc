@@ -1,4 +1,4 @@
-https://github.com/Timurilasov/Calculator.git
+https://github.com/Timurilasov/Calc.git
 
 
 import java.util.Scanner;
